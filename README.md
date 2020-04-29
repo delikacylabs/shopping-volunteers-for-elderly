@@ -1,4 +1,7 @@
 
+ ![SVE](images/theme.jpeg)
+
+
 There are three google scripts to each of the forms.
 Form types:
 1. Request form: This is here elderly will make a request.
@@ -24,10 +27,15 @@ These three scripts present in this repo are related to each of the forms.  Foll
  Also, the account sid, auth token and messaging sid needs to be updated.
 
 
+
  ![Delivery offfer form](images/delivery_offer_form.jpeg)
- ![delivery_request_form](images/delivery_offer_form.jpeg)
- ![Volunteer registratoin Form](images/delivery_offer_form.jpeg)
- ![Sample message received by volunteers](images/delivery_offer_form.jpeg)
+
+ ![delivery_request_form](images/delivery_request_form.jpeg)
+
+ ![Volunteer registratoin Form](images/volunteer_registration.jpeg)
+
+ ![Sample volunteer SMS](images/volunteer_sms.jpeg)
+
 
 
  
