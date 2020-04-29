@@ -24,10 +24,10 @@ These three scripts present in this repo are related to each of the forms.  Foll
  Also, the account sid, auth token and messaging sid needs to be updated.
 
 
- [Delivery offfer form](images/delivery_offer_form.jpeg)
- [delivery_request_form](images/delivery_offer_form.jpeg)
- [Volunteer registratoin Form](images/delivery_offer_form.jpeg)
- [Sample message received by volunteers](images/delivery_offer_form.jpeg)
+ ![Delivery offfer form](images/delivery_offer_form.jpeg)
+ ![delivery_request_form](images/delivery_offer_form.jpeg)
+ ![Volunteer registratoin Form](images/delivery_offer_form.jpeg)
+ ![Sample message received by volunteers](images/delivery_offer_form.jpeg)
 
 
  
